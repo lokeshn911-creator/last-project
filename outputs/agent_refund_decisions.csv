@@ -1,0 +1,4 @@
+ticket_id,customer_id,agent_decision,policy_reasoning
+TICK-101,CUST-001,Approved,Customer inquiry regarding financial charges or refunds.
+TICK-102,CUST-002,Standard Review,General support or technical query.
+TICK-103,CUST-003,Standard Review,General support or technical query.

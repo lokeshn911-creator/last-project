@@ -1,0 +1,4 @@
+ticket_id,customer_id,order_id,text,true_category
+TICK-101,CUST-001,ORD-5001,"Hi, I was charged twice for my grocery order. My phone number is 9876543210 and my email is test@example.com. Please refund my money.",billing
+TICK-102,CUST-002,ORD-5002,There is a suspicious transaction on my account that I did not authorize. Please help!,fraud
+TICK-103,CUST-003,ORD-5003,The app crashes every time I try to view my past orders. Can you fix this technical glitch?,technical

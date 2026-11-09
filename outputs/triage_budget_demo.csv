@@ -1,0 +1,4 @@
+ticket_id,customer_id,order_id,masked_text,true_category,predicted_category,classification_reason,priority
+TICK-101,CUST-001,ORD-5001,"Hi, I was charged twice for my grocery order. My phone number is [PHONE] and my email is [EMAIL]. Please refund my money.",billing,billing,Customer inquiry regarding financial charges or refunds.,High
+TICK-102,CUST-002,ORD-5002,There is a suspicious transaction on my account that I did not authorize. Please help!,fraud,technical,General support or technical query.,Normal
+TICK-103,CUST-003,ORD-5003,The app crashes every time I try to view my past orders. Can you fix this technical glitch?,technical,technical,General support or technical query.,Normal
